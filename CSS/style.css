@@ -577,7 +577,7 @@ FOOTER SECTION
   .call-icon{
     display: flex;
     align-items: center;
-    padding: 85px 0;
+    /* padding: 85px 0; */
     
   }
 .footer-links{
