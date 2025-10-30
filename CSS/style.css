@@ -261,7 +261,7 @@ padding-left: 11px;
 
 .banner-img{
     max-width: 905px;
-    min-height: 654px;
+    /* min-height: 654px; */
     position: relative;
 }
  .banner-img>img{
